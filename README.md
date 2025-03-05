@@ -1,1 +1,3 @@
 # shop.com-
+
+## DESENVOLVIMENTO DO PROJETO
